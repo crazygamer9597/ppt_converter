@@ -1,4 +1,4 @@
-# ppt_converter
+# PPT_Converter
 Simple Python Application to batch convert PPT, PPTX, DOC, DOCX file to PDF file
 
 # Installation
