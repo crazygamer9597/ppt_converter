@@ -8,3 +8,4 @@ To install the required packages, use the following pip commands:
 ```bash
 pip install tqdm comtypes
 ```
+.
