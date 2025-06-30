@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-# PPT_Converter
-Simple Python Application to batch convert PPT, PPTX, DOC, DOCX file to PDF file
-
-# Installation
-
-To install the required packages, use the following pip commands:
-
-```bash
-pip install tqdm comtypes
-```
-.
-=======
 # 📄 Office File to PDF Converter
 
 A robust, user-friendly Python tool for batch converting Microsoft Office documents (Word and PowerPoint) to PDF format with beautiful progress visualization and comprehensive logging.
@@ -222,4 +209,3 @@ We welcome feature requests! Please create an issue describing:
 ---
 
 **Made with ❤️ for efficient document conversion**
->>>>>>> rewrite-version
